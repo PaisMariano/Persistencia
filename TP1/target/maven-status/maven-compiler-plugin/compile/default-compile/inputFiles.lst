@@ -1,0 +1,13 @@
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/frontend/api/EspecieServiceREST.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/model/especie/TipoBicho.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/service/especie/EspecieServiceImpl.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/service/especie/EspecieService.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/model/bicho/Bicho.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/model/especie/Especie.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/dao/EspecieDAO.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/frontend/app/JsonObjectMapperProvider.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/service/data/DataService.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/service/especie/EspecieNoExistente.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/frontend/mock/EspecieDAOMock.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/frontend/app/BichomonWebApp.java
+/home/kucamonga/Desktop/UNQ/EPERS/Persistentes-TP/src/main/java/ar/edu/unq/epers/bichomon/backend/service/ServiceFactory.java

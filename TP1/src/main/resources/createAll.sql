@@ -4,7 +4,7 @@ CREATE SCHEMA tp1;
 USE tp1;
 
 CREATE TABLE especie (
-  id int NOT NULL UNIQUE,
+  id int NOT NULL UNIQUE AUTO_INCREMENT,
   nombre VARCHAR(255) NOT NULL UNIQUE,
   altura int NOT NULL,
   peso int NOT NULL,

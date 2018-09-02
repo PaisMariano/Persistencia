@@ -1,11 +1,10 @@
 package ar.edu.unq.epers.bichomon.frontend.app;
 
-import javax.ws.rs.ApplicationPath;
-
+import ar.edu.unq.epers.bichomon.frontend.api.EspecieServiceREST;
 import org.glassfish.jersey.jackson.JacksonFeature;
 import org.glassfish.jersey.server.ResourceConfig;
 
-import ar.edu.unq.epers.bichomon.frontend.api.EspecieServiceREST;
+import javax.ws.rs.ApplicationPath;
 
 /**
  * Esto es codigo de frontend, no deberian tocar nada de aca.

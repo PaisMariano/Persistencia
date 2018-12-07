@@ -2,7 +2,6 @@ package ar.edu.unq.epers.bichomon.backend.dao.impl;
 
 import ar.edu.unq.epers.bichomon.backend.dao.EspecieDAO;
 import ar.edu.unq.epers.bichomon.backend.model.especie.Especie;
-import ar.edu.unq.epers.bichomon.backend.dao.impl.JDBCConector;
 import ar.edu.unq.epers.bichomon.backend.model.especie.TipoBicho;
 
 import java.sql.PreparedStatement;
